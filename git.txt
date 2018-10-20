@@ -1,0 +1,8 @@
+git status
+
+git add new_or_modified_files
+
+git commit -m "Message"
+
+git push origin master
+
